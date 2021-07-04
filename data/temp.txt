@@ -1,0 +1,1 @@
+{"food":[{"fname":"chicken","fprice":"200"},{"fname":"paneer","fprice":"150"}],"resultCode":200,"restaurantName":"Taj Mahal"}
